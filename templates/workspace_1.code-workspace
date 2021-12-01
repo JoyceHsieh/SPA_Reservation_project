@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../Documents/CGU/2021_Fall/IST303"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Example_v1"
+	}
+}

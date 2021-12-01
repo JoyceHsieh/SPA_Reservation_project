@@ -1,0 +1,6 @@
+flask
+boto3
+sqlalchemy
+numpy
+pandas
+flask_bootstrap
